@@ -1,0 +1,30 @@
+/Users/arif/Projects/Book assignment/Book assignment/bin/Debug/net7.0/appsettings.Development.json
+/Users/arif/Projects/Book assignment/Book assignment/bin/Debug/net7.0/appsettings.json
+/Users/arif/Projects/Book assignment/Book assignment/bin/Debug/net7.0/Book assignment.staticwebassets.runtime.json
+/Users/arif/Projects/Book assignment/Book assignment/bin/Debug/net7.0/Book assignment
+/Users/arif/Projects/Book assignment/Book assignment/bin/Debug/net7.0/Book assignment.deps.json
+/Users/arif/Projects/Book assignment/Book assignment/bin/Debug/net7.0/Book assignment.runtimeconfig.json
+/Users/arif/Projects/Book assignment/Book assignment/bin/Debug/net7.0/Book assignment.dll
+/Users/arif/Projects/Book assignment/Book assignment/bin/Debug/net7.0/Book assignment.pdb
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/Book assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/Book assignment.AssemblyInfoInputs.cache
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/Book assignment.AssemblyInfo.cs
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/Book assignment.csproj.CoreCompileInputs.cache
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/Book assignment.MvcApplicationPartsAssemblyInfo.cache
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/Book assignment.RazorAssemblyInfo.cache
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/Book assignment.RazorAssemblyInfo.cs
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/staticwebassets/msbuild.Book assignment.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/staticwebassets/msbuild.build.Book assignment.props
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Book assignment.props
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Book assignment.props
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/staticwebassets.build.json
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/staticwebassets.development.json
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/scopedcss/bundle/Book assignment.styles.css
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/scopedcss/projectbundle/Book assignment.bundle.scp.css
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/Book assignment.dll
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/refint/Book assignment.dll
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/Book assignment.pdb
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/Book assignment.genruntimeconfig.cache
+/Users/arif/Projects/Book assignment/Book assignment/obj/Debug/net7.0/ref/Book assignment.dll
